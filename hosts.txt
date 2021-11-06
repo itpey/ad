@@ -1,0 +1,16 @@
+127.0.0.1  localhost
+::1  localhost
+
+
+# [MyBlock]
+127.0.0.1 analytics.metrix.ir
+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+127.0.0.1 data.mistat.intl.xiaomi.com
+127.0.0.1 update.intl.miui.com
+127.0.0.1 global.market.xiaomi.com
+127.0.0.1 tracking.intl.miui.com
+127.0.0.1 api.newsfeed.intl.miui.com
+127.0.0.1 api.ad.intl.xiaomi.com
+127.0.0.1 api.metrix.ir
+127.0.0.1 mobile.useinsider.com
+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
