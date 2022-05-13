@@ -22,4 +22,3 @@ ff02::2 ip6-allrouters
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 graph.facebook.com
 127.0.0.1 graph.instagram.com
-
